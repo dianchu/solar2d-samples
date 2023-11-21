@@ -262,4 +262,4 @@ function unloadSound()
 	soundID = nil
 end
 
-
+require("slowDrag")
